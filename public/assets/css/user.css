@@ -1,0 +1,37 @@
+h1 {
+    color: brown;
+}
+header {
+    background-color: #0f0f0f;
+    color: #fff;
+}
+.a1 {
+    text-decoration: none;
+    font-size: smaller;
+    color: #fff;
+}
+.first-img {
+    width: 50%;
+}
+.nav-class {
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+}
+.nav-links a {
+    text-decoration: none;
+    text-transform: uppercase;
+    margin: 5px 10px 5px 10px;
+    color: #fff;
+}
+.row-2 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)),
+        url("../images/cover-pic.jpg");
+    background-size: cover;
+    min-height: 60vh;
+}
+.bl {
+    background-color: #0b5c53;
+    width: 100%;
+    color: #fff;
+    padding-left: 20px;
+}
